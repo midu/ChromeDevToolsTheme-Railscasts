@@ -1,5 +1,6 @@
 require 'rubygems'
 require 'sass'
+require 'rb-fsevent'
 
 task default: [:build]
 
