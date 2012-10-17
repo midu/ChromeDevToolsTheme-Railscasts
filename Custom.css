@@ -1,0 +1,7 @@
+#-webkit-web-inspector .source-code {
+  background: #2b2b2b;
+  color: #e6e1dc; }
+  #-webkit-web-inspector .source-code .webkit-html-tag {
+    color: #e6e1dc; }
+  #-webkit-web-inspector .source-code .webkit-html-comment {
+    color: #bc9458; }
